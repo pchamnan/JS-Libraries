@@ -1,0 +1,19 @@
+{
+  "name": "js-libraries",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "lite-server --baseDir=\"Travel\""
+  },
+  "author": "Piriya_Chamnan",
+  "license": "private",
+  "private": true,
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "@glidejs/glide": "^3.7.1",
+    "aos": "^2.3.4",
+    "lightbox2": "^2.11.5"
+  }
+}
